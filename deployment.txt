@@ -1,0 +1,5 @@
+host: fra.domcloud.id
+u: striking-media-few
+p: kOlxY16L2P2Keq8()_
+
+bd: striking_media_few_db
